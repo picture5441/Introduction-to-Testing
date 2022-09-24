@@ -6,6 +6,7 @@ Name: Adding an item to the bag
 
 #### Preconditions
 
+- Internet connection.
 - Website https://www.tiffany.com/ is opened.
 
 #### Test Steps
