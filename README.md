@@ -36,6 +36,8 @@ Name: Finding a store in your city
 - Website https://www.tiffany.com/ is opened.
 - Allow/Not allow to show your location.
 
+#### Test Steps
+
 | ID                 | Test Step Description         | Expected Output                |   Actual Output                |
 | ------------------ | ------------------------------------------------ | ----------------------------------------------------- |-----------|
 | 1.                  | Click on the picture _Location_ (in the Header)        | _Location_ page is opened |  _Location_ page is opened | 
