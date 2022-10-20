@@ -7,7 +7,7 @@ Name: Adding an item to the bag
 #### Preconditions
 
 - Internet connection.
-- Item page is opened.
+- Product page is opened.
 
 #### Test Steps
 
