@@ -13,9 +13,8 @@ Name: Adding an item to the bag
 
 | ID  | Test Step Description                       | Expected Output          | Actual Output            |
 | --- | ------------------------------------------- | ------------------------ | ------------------------ |
-| 1.  | Select and click on any picture of product  | _Product page_ is opened | _Product page_ is opened |
-| 2.  | Choose _Quantity_ of the product | _Quantity_ is chosen     | _Quantity_ is chosen     |
-| 3.    |    Click the _Add to Bag_ button                                         |     	Pop-up menu _Add to Bag_ is opened. There is information about the product, total price and the button Go to bag                     |        Pop-up menu _Add to Bag_ is opened. There is information about the product, quantity, the button Remove and total price button _Estimate Total: xxx$ Checkout_                  |
+| 1.  | Choose _Quantity_ of the product | _Quantity_ is chosen     | _Quantity_ is chosen     |
+| 2.    |    Click the _Add to Bag_ button                                         |     	Pop-up menu _Add to Bag_ is opened. There is information about the product, total price and the button Go to bag                     |        Pop-up menu _Add to Bag_ is opened. There is information about the product, quantity, the button Remove and total price button _Estimate Total: xxx$ Checkout_                  |
 
 ## Test case №2
 Name: Finding a store in your city
